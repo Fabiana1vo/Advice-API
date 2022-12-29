@@ -1,0 +1,37 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+ header {
+    padding: 30px;
+ }
+ 
+body
+{
+    background-color: #00008b;
+}
+ h4,h1 {
+    font-family: 'Lora',sans-serif;
+ }
+
+ h1{
+    color:#FFF;
+ }
+ h4 {
+    color: #FFC107;
+ }
+
+ .content {
+    min-height: 70vh;
+    align-items: center;
+    display: flex;
+ }
+
+ span {
+    color: #FFF;
+ }
